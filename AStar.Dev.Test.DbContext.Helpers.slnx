@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src\AStar.Dev.Test.DbContext.Helpers\AStar.Dev.Test.DbContext.Helpers.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="AStar.Dev.Test.DbContext.Helpers.Tests.Unit\AStar.Dev.Test.DbContext.Helpers.Tests.Unit.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
